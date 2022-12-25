@@ -22,7 +22,7 @@ terraform apply
 ![App Screenshot](https://github.com/mostafahassan097/Terraform-Simple-WebApp/blob/feature/simple-web/Screenshots/1.png)
 ![App Screenshot](https://github.com/mostafahassan097/Terraform-Simple-WebApp/blob/feature/simple-web/Screenshots/2.png)
 
-## Make sure to delete infra resources after provision:
+## Make sure to delete infra resources after provisioning:
 ```sh
 terraform destroy
 ```
