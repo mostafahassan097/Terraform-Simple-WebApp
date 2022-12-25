@@ -1,6 +1,6 @@
 # Provison Webserver Using Terraform
 
-## Before you start you should have docker and terraform installed on your machine:
+## Before you start you should have terraform installed on your machine:
 
 #### - Install Terraform  ([Link](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)).
 #### Make sure to configure aws credentials under $HOME/.aws/credentials or using command ```aws configure ``` 
