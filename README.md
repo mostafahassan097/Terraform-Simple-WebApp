@@ -1,10 +1,9 @@
-# Deploy Simple NodeJs App on ECS That Connects to Rds Using Terraform
+# Provison Webserver Using Terraform
 
 ## Before you start you should have docker and terraform installed on your machine:
 
 ### - Install Terraform  ([Link](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)).
 
-## Provison Webserver Using Terraform
 * Clone The repo:
 ```sh
 mkdir simple-webserver 
@@ -23,7 +22,7 @@ terraform apply
 ![App Screenshot](https://github.com/mostafahassan097/Terraform-Simple-WebApp/blob/feature/simple-web/Screenshots/1.png)
 ![App Screenshot](https://github.com/mostafahassan097/Terraform-Simple-WebApp/blob/feature/simple-web/Screenshots/2.png)
 
-## to Delete Resources after provisoned  :
+## Make sure to delete infra resources after provision:
 ```sh
 terraform destroy
 ```
