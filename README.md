@@ -7,7 +7,7 @@
 * Clone The repo:
 ```sh
 mkdir simple-webserver 
-git@github.com:mostafahassan097/Terraform-Simple-WebApp.git 
+git clone git@github.com:mostafahassan097/Terraform-Simple-WebApp.git  /simple-webserver 
 git checkout feature/simple-web
 ```
 - Run the following commands to deploy the terraform code: 
