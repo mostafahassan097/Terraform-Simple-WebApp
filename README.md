@@ -2,8 +2,8 @@
 
 ## Before you start you should have docker and terraform installed on your machine:
 
-### - Install Terraform  ([Link](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)).
-
+#### - Install Terraform  ([Link](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)).
+#### Make sure to configure aws credentials under $HOME/.aws/credentials or using command ```aws configure ``` 
 * Clone The repo:
 ```sh
 mkdir simple-webserver 
