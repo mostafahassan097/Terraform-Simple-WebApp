@@ -6,12 +6,12 @@
 #### Make sure to configure aws credentials under $HOME/.aws/credentials or using command ```aws configure ``` 
 * Clone The repo:
 ```sh
-git clone git@github.com:mostafahassan097/Terraform-Simple-WebApp.git   
+git clone  https://github.com/mostafahassan097/Terraform-Simple-WebApp.git
+cd Terraform-Simple-WebApp
 git checkout feature/simple-web
 ```
 - Run the following commands to run the terraform code: 
 ```sh
-cd Terraform-Simple-WebApp
 terraform init 
 terraform apply 
 ```
